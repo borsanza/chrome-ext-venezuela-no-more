@@ -3,15 +3,19 @@ replacements = [
     {'find': 'VENEZUELA',        'replace': 'CHIQUITISTÁN'},
     {'find': 'venezuela',        'replace': 'chiquitistán'},
 
+    {'find': 'Venezolanos',      'replace': 'Chiquitistanies'},
     {'find': 'venezolanos',      'replace': 'chiquitistanies'},
     {'find': 'VENEZOLANOS',      'replace': 'CHIQUITISTANIES'},
 
+    {'find': 'Venezolano',       'replace': 'Chiquitistaní'},
     {'find': 'venezolano',       'replace': 'chiquitistaní'},
     {'find': 'VENEZOLANO',       'replace': 'CHIQUITISTANÍ'},
 
+    {'find': 'Venezolanas',      'replace': 'Chiquitistanitas'},
     {'find': 'venezolanas',      'replace': 'chiquitistanitas'},
     {'find': 'VENEZOLANAS',      'replace': 'CHIQUITISTANITAS'},
 
+    {'find': 'Venezolana',       'replace': 'Chiquitistanita'},
     {'find': 'venezolana',       'replace': 'chiquitistanita'},
     {'find': 'VENEZOLANA',       'replace': 'CHIQUITISTANITA'},
 
